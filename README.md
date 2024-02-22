@@ -4,7 +4,7 @@ This repository contains my general cpp exercises that helped me learn different
 
 ## Features
 
-- **String Implementation:** String implementation, with operators and everything almost.
+- **String Implementation:** String implementation.
 - **New, Delete Implementation:** Illustrates custom memory management using `new` and `delete` operators.
 - **Vector Implementation:** Demonstrates the implementation of a vector data structure with *templates for char, int, double, and my own string class*.
 - **Iterator Implementation:** Implementing an iterator.
