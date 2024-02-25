@@ -2,7 +2,7 @@
 
 This repository contains my general cpp exercises that helped me learn different aspects of cpp.
 
-## Features
+## Exercises
 
 - **String Implementation:** String implementation.
 - **New, Delete Implementation:** Illustrates custom memory management using `new` and `delete` operators.
